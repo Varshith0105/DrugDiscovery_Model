@@ -208,7 +208,7 @@ jupyter notebook
 ---
 
 ## 👨‍💻 Author
-Varshith Julakanti & Polishetty Bala Arun  
+Varshith Julakanti
 
 ---
 
